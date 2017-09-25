@@ -1,2 +1,3 @@
 # Hello-World
-My first repository in GitHub
+
+I am a math PhD from BYU.
